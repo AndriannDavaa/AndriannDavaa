@@ -1,44 +1,29 @@
-<h1 align="center">Hi, I'm Dava! 👋</h1>
+# Nexora Hosting Store 🚀
+
+**Reliable Hosting Solutions for Everyone.**
+
+Nexora Hosting Store provides hosting solutions for Minecraft servers and other digital needs.
+
+### Services
+- 🎮 Minecraft Server Hosting
+- ⚡ VPS Hosting
+- 🌐 Web Hosting
+- 🛠️ Server Management
+
+### Tech Stack
+- Laravel
+- PHP
+- MySQL
+- JavaScript
+- Pterodactyl
+
+### Website
+🌐 https://nexoo.my.id
+
+---
+
 <p align="center">
-  Developer | Bot Maker | Tech Enthusiast  
+  **Nexora Hosting Store**
+  <br>
+  *Powering Your Digital World.* ⚡
 </p>
-
----
-
-### 🧠 About Me
-- 🔭 I’m currently working on **WhatsApp Bots & Discord Bots**
-- 🌱 I’m always learning new things, especially in **JavaScript, Arduino, and API**
-- ⚙️ I'm building cool stuff like:
-  - WhatsApp bots with Baileys
-  - Discord bots with tickets system
-  - Minecraft server integrations
-- 🖤 I love dark mode, blur UI, and clean code
-
----
-
-### 🔧 Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Baileys](https://img.shields.io/badge/-Baileys-25D366?style=flat-square&logo=whatsapp)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dava123&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dava123&theme=radical" width="47%" />
-</p>
-
----
-
-### 🔗 Connect With Me
-<p>
-  <a href="https://instagram.com/Andriandava12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">⚡ “Stay curious and keep building cool stuff!” ⚡</p>
